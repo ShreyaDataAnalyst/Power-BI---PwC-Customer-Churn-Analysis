@@ -32,7 +32,6 @@ This project involves the creation of PwC Churn Analysis Dashboard in Power BI t
 
 ![Screenshot 2024-10-22 171557](https://github.com/user-attachments/assets/6c13c858-16cb-449d-8824-cf22c9df08ec)
 
-![Screenshot 2024-10-22 171529](https://github.com/user-attachments/assets/75c02055-570e-4649-8b0e-a57751008e3e)
 
 
 ## Key Findings
@@ -44,6 +43,8 @@ This project involves the creation of PwC Churn Analysis Dashboard in Power BI t
 5. Fiber Optic Issues: Notably, 42% of churned customers reported issues with Fiber Optic Internet Services.
 6. Payment Method: The highest churn rate is among customers using electronic checks, indicating potential concerns with this payment. 
 
+
+![Screenshot 2024-10-22 171529](https://github.com/user-attachments/assets/75c02055-570e-4649-8b0e-a57751008e3e)
 
 ##
 **This dashboard highlights the value of proactive customer retention strategies and offers a clear path to mitigating churn risks.**
