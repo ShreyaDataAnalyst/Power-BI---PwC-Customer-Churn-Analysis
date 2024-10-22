@@ -2,7 +2,8 @@
 # Power BI: PwC Churn Analysis Dashboard
 
 
-[pwc_Certificate.pdf](https://github.com/user-attachments/files/17477195/pwc_Certificate.pdf)
+![Screenshot 2024-10-22 181601](https://github.com/user-attachments/assets/f664c367-e306-4d62-9e72-99d564aea2e9)
+
 
 
 
