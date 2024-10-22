@@ -2,7 +2,8 @@
 # Power BI: PwC Churn Analysis Dashboard
 
 
-![Screenshot 2024-10-22 171557](https://github.com/user-attachments/assets/6c13c858-16cb-449d-8824-cf22c9df08ec)
+[pwc_Certificate.pdf](https://github.com/user-attachments/files/17477195/pwc_Certificate.pdf)
+
 
 
 ## Project Overview
@@ -28,7 +29,7 @@ This project involves the creation of PwC Churn Analysis Dashboard in Power BI t
 4. Data Visualization: Developed an intuitive, visually compelling dashboard to make complex data easily digestible.
 5. Insights Discovery: Unearthed significant insights that can guide strategic decision-making.
 
-
+![Screenshot 2024-10-22 171557](https://github.com/user-attachments/assets/6c13c858-16cb-449d-8824-cf22c9df08ec)
 
 ![Screenshot 2024-10-22 171529](https://github.com/user-attachments/assets/75c02055-570e-4649-8b0e-a57751008e3e)
 
